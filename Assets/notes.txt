@@ -1,0 +1,18 @@
+Gameplay takes about 40 seconds
+
+Move with WASD or arrows
+Jump with SPACE
+Cheat Leap with X
+
+Brush also moves with WASD
+
+You can switch camera mods by enabling or disabling isReal3rdPerson variable of CameraController.cs on Main Camera
+
+
+
+Obstacles
+Moving Obstacle
+Moving Obstacle follows the paths assigned to its list, You can RESET MovingObstacle.cs on the child MovingObstacle to assign the sibling paths in order or put them as you like to create a path.
+
+Rotator and Stick
+All you need to do is to duplicate wished amount of child sticks and reset the Rotator.cs on Rotator. Velocity default is set to 150
